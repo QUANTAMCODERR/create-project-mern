@@ -112,16 +112,17 @@ When you generate a project, it automatically comes configured with:
 ## 📸 Screenshots
 
 ### CLI Preview
-![CLI Preview](https://raw.githubusercontent.com/QUANTAMCODERR/create-project-mern/main/docs/cli-preview.png)
+![CLI Preview](./docs/cli-preview.png)
 
 ### Generated App UI
-![Generated App UI](https://raw.githubusercontent.com/QUANTAMCODERR/create-project-mern/main/docs/app-ui.png)
+![Generated App UI](./docs/app-ui.png)
 
 ### Folder Structure
-![Folder Structure](https://raw.githubusercontent.com/QUANTAMCODERR/create-project-mern/main/docs/folder-structure.png)
+![Folder Structure](./docs/folder-structure.png)
 
 ### Terminal Setup
-![Terminal Setup](https://raw.githubusercontent.com/QUANTAMCODERR/create-project-mern/main/docs/terminal-setup.png)
+![Terminal Setup](./docs/terminal-setup.png)
+
 ---
 
 ## 🏃‍♂️ Running The App
