@@ -68,9 +68,7 @@ $ npx create-project-mern myApp
 
 🚀 Welcome to Create Project MERN!
 ? What is your project named? myApp
-? Do you want to use TypeScript? Yes
-? Do you want to include TailwindCSS? Yes
-? Do you want to include JWT Authentication? Yes
+? Do you want to use TypeScript/JavaScript?
 
 ⚙️  Setting up your project...
 📦 Installing dependencies...
@@ -107,7 +105,6 @@ When you generate a project, it automatically comes configured with:
 - **TailwindCSS**: Ready to use utility classes (if selected).
 - **JWT Auth**: User authentication boilerplate (if selected).
 - **Backend Health API**: Ready `/api/health` endpoint to verify backend status.
-- **Git Repo Initialization**: `git init` and initial commit automatically done.
 - **Dependency Installation**: All `npm install` commands run during setup.
 
 ---
@@ -115,20 +112,16 @@ When you generate a project, it automatically comes configured with:
 ## 📸 Screenshots
 
 ### CLI Preview
-*Add your CLI setup screenshot here*
-<!-- ![CLI Preview](./docs/cli-preview.png) -->
+![CLI Preview](./docs/cli-preview.png)
 
 ### Generated App UI
-*Add your generated App UI screenshot here*
-<!-- ![Generated App UI](./docs/app-ui.png) -->
+![Generated App UI](./docs/app-ui.png)
 
 ### Folder Structure
-*Add your folder structure screenshot here*
-<!-- ![Folder Structure](./docs/folder-structure.png) -->
+![Folder Structure](./docs/folder-structure.png)
 
 ### Terminal Setup
-*Add your terminal setup screenshot here*
-<!-- ![Terminal Setup](./docs/terminal-setup.png) -->
+![Terminal Setup](./docs/terminal-setup.png)
 
 ---
 
