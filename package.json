@@ -1,13 +1,11 @@
 {
   "name": "create-project-mern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create production-ready MERN apps",
   "type": "module",
-
   "bin": {
     "create-project-mern": "./bin/index.js"
   },
-
   "keywords": [
     "mern",
     "cli",
@@ -17,10 +15,8 @@
     "vite",
     "typescript"
   ],
-
   "author": "Tushar Gujjanwar",
   "license": "MIT",
-
   "files": [
     "bin",
     "lib",
@@ -28,11 +24,9 @@
     "extras",
     "README.md"
   ],
-
   "engines": {
     "node": ">=18"
   },
-
   "dependencies": {
     "chalk": "^5.3.0",
     "fs-extra": "^11.2.0",
